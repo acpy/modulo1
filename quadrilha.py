@@ -18,25 +18,36 @@ Python.
     Carlos Drummond de Andrade (1902-1987)
     Alguma Poesia (1930)
 
-Vale a pena produzir cada período do poema separadamente::
+Vale a pena produzir cada período do poema separadamente.
 
-    >>> print periodo1(nomes) #doctest: +NORMALIZE_WHITESPACE
+Primeiro período::
+
+    >>> print periodo1(nomes)
     João amava Teresa que amava Raimundo
     que amava Maria que amava Joaquim que amava Lili
     que não amava ninguém.
+
+Segundo período::
+
+    >>> print periodo2(nomes, desfechos)
+    João foi para os Estados Unidos, Teresa para o convento,
+    Raimundo morreu de desastre, Maria ficou para tia,
+    Joaquim suicidou-se e Lili casou com J. Pinto Fernandes
+    que não tinha entrado na história.
+
 
 """
 
 nomes = [u'João', u'Teresa', u'Raimundo', u'Maria', u'Joaquim', u'Lili']
 
 desfechos = {
-    u'João':     'foi para os Estados Unidos',
-    u'Joaquim':  'suicidou-se',
-    u'Lili':     'casou com J. Pinto Fernandes\n'
-                 'que não tinha entrado na história',
-    u'Maria':    'ficou para tia',
-    u'Raimundo': 'morreu de desastre',
-    u'Teresa':   'para o convento',
+    u'João':     u'foi para os Estados Unidos',
+    u'Joaquim':  u'suicidou-se',
+    u'Lili':     u'casou com J. Pinto Fernandes\n'
+                 u'que não tinha entrado na história',
+    u'Maria':    u'ficou para tia',
+    u'Raimundo': u'morreu de desastre',
+    u'Teresa':   u'para o convento',
 }
 
 def periodo1(nomes):
@@ -45,7 +56,17 @@ def periodo1(nomes):
     res.append(nomes[-1] + u' que não amava ninguém.')
     return u' '.join(res)
 
+def periodo2(nomes, desfechos):
+    res = []
+    for nome in nomes[:-2]:
+        res.append(nome+u' '+desfechos[nome]+ ', ')
+    res.append(nomes[-2]+u' '+desfechos[nomes[-2]]+ ' e ')
+    res.append(nomes[-1]+u' '+desfechos[nomes[-1]]+ '.')
+    return u' '.join(res)
 
 if __name__=='__main__':
     import doctest
-    doctest.testmod()
+    print doctest.testmod(optionflags=doctest.REPORT_ONLY_FIRST_FAILURE
+                                     |doctest.REPORT_NDIFF
+                                     |doctest.NORMALIZE_WHITESPACE)
+
