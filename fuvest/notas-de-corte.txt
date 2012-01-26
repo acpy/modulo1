@@ -1,0 +1,94 @@
+# CÓDIGO E NOME DA CARREIRA
+# CONVOCADOS PARA A 2ª FASE
+# CONVOCADOS POR VAGA
+# MÁNIMO DE PONTOS DOS CONVOCADOS
+# PONTOS POSSÍVEIS NA 2ª FASE
+# MÍNIMO DE PONTOS DOS CONVOCADOS
+200−Administração − Ribeirão Preto  131 2.91 86 160 62
+202−Administração  628 2.99 95 160 65
+204−Arquitetura − FAU  442 2.95 86 160 62
+206−Arquitetura − São Carlos   99 3.30 83 160 61
+208−Artes Cênicas − Bacharelado   45 3.00 85 160 64
+220−Artes Cênicas − Licenciatura   28 2.80 72 160 54
+222−Artes Plásticas   90 3.00 81 160 42
+224−Biblioteconomia   99 2.83 75 80 49
+226−Ciências Contábeis − Ribeirão Preto  130 2.89 69 160 44
+228−Ciências Contábeis  394 2.63 84 160 52
+230−Ciências da Informação e da Documentação − Ribeirão Preto  111 2.78 73 160 43
+232−Ciências Sociais  608 2.90 89 120 57
+234−Curso Superior do Audiovisual  123 3.51 88 160 70
+236−Direito 1394 3.03 93 160 68
+238−Economia Agroindustrial − Piracicaba  100 3.33 88 160 51
+240−Economia − Ribeirão Preto  145 3.22 89 160 57
+242−Economia  572 3.18 90 160 63
+244−Editoração   48 3.20 81 80 64
+246−Filosofia  477 2.81 84 160 48
+248−Geografia  491 2.89 83 120 52
+250−Gestão Ambiental − Piracicaba  117 2.93 88 120 56
+252−História  741 2.74 89 120 55
+254−Jornalismo  180 3.00 91 120 70
+256−Letras 2202 2.59 89 160 47
+258−Música  103 2.94 82 160 40
+260−Música − Ribeirão Preto   43 1.43 74 160 25
+262−Oficial da Polícia Militar do Estado de São Paulo (Feminino)   52 3.47 75 40 57
+264−Oficial da Polícia Militar do Estado de São Paulo (Masculino)  406 3.01 86 40 57
+266−Pedagogia − Ribeirão Preto  131 2.62 70 160 46
+268−Pedagogia  439 2.44 80 120 46
+280−Publicidade e Propaganda  140 2.80 88 80 68
+282−Relações Internacionais  196 3.27 93 160 71
+284−Relações Públicas  141 2.82 84 80 61
+286−Turismo   79 2.63 82 120 59
+299−Treinamento Humanas 1249 2.78 85 160 51
+400−Ciências Biológicas − Piracicaba   87 2.90 79 120 64
+402−Ciências Biológicas − Ribeirão Preto  134 3.35 85 120 66
+404−Ciências Biológicas − São Paulo  371 3.09 88 120 66
+406−Ciências dos Alimentos − Piracicaba  108 2.70 79 120 53
+408−Educação Física  114 2.28 84 160 56
+420−Enfermagem − Ribeirão Preto  219 2.74 82 120 51
+422−Enfermagem  381 2.38 81 120 51
+424−Engenharia Agrônomica − Piracicaba  572 2.86 82 160 49
+426−Engenharia Florestal − Piracicaba  129 3.23 75 160 50
+428−Esporte  132 2.64 81 160 52
+430−Farmácia−Bioquímica − Ribeirão Preto  257 3.21 85 120 61
+432−Farmácia−Bioquímica  430 2.87 86 160 62
+434−Fisioterapia  168 2.58 86 160 63
+436−Fonoaudiologia − Bauru   73 2.92 72 160 40
+438−Fonoaudiologia − Ribeirão Preto   87 2.90 68 120 51
+440−Fonoaudiologia  200 2.67 73 160 44
+442−Medicina e Ciências Médicas 1247 3.33 96 160 78
+444−Medicina Veterinária  215 2.69 87 160 64
+446−Nutrição e Metabolismo − Ribeirão Preto   88 2.93 73 160 57
+448−Nutrição  214 2.68 81 160 57
+450−Odontologia − Bauru  144 2.88 81 160 53
+452−Odontologia − Ribeirão Preto  246 3.08 80 160 51
+454−Odontologia  362 2.72 85 160 53
+456−Psicologia − Ribeirão Preto  123 3.08 86 160 64
+458−Psicologia  189 2.70 84 160 64EXAME FUVEST 2004
+460−Terapia Ocupacional  121 2.69 79 120 56
+462−Zootecnia − Pirassununga  108 2.70 76 160 50
+499−Treinamento Biológicas 1237 2.75 87 160 50
+600−Ciências Geológicas e Ambientais  150 3.00 81 160 40
+602−Computação − São Carlos  296 2.96 85 120 58
+604−Engenharia Aeronáutica − São Carlos  136 3.40 92 120 71
+606−Engenharia Ambiental − São Carlos  135 3.38 81 160 61
+608−Engenharia, Computação e Matemática Aplicada 2729 3.14 95 160 63
+620−Engenharia Civil − São Carlos  179 2.98 87 120 54
+622−Engenharia de Alimentos − Pirassununga  298 2.98 83 160 51
+624−Engenharia − São Carlos  842 3.01 92 120 64
+626−Física Médica − Ribeirão Preto  127 3.18 76 120 54
+628−Física / Meteorologia / Geofísica / Estatística / Matemática  998 3.02 98 120 50
+630−Informática Biomédica − Ribeirão Preto  133 3.33 88 160 56
+632−Informática − São Carlos  111 2.78 71 120 50
+634−Licenciatura em Ciências Exatas − São Carlos  135 2.70 69 80 40
+636−Licenciatura em Geociências e Educação Ambiental  106 2.65 68 80 46
+638−Licenciatura em Matemática / Física  653 2.51 87 120 44
+640−Matemática Aplicada − Ribeirão Preto  130 2.89 77 160 34
+642−Matemática − São Carlos  163 2.96 79 120 46
+644−Oceanografia  113 2.83 96 160 56
+646−Química − Bacharelado e Licenciatura  190 3.17 91 160 58
+648−Química − Licenciatura   84 2.80 84 160 55
+650−Química Ambiental   94 3.13 74 160 52
+652−Química (Bacharelado e Bacharelado com Atribuições Tecnológicas)−Ribeirão Preto  116 2.90 81 120 51
+654−Química (Licenciatura) − Ribeirão Preto  111 2.78 81 120 39
+656−Química − São Carlos  193 3.22 79 80 53
+699−Treinamento Exatas 1209 2.69 92 160

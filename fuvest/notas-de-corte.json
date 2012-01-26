@@ -1,0 +1,354 @@
+{
+  "200": {
+    "convocados": 131, 
+    "nome": "Administra\u00e7\u00e3o \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "202": {
+    "convocados": 628, 
+    "nome": "Administra\u00e7\u00e3o"
+  }, 
+  "204": {
+    "convocados": 442, 
+    "nome": "Arquitetura \u2212 FAU"
+  }, 
+  "206": {
+    "convocados": 99, 
+    "nome": "Arquitetura \u2212 S\u00e3o Carlos"
+  }, 
+  "208": {
+    "convocados": 45, 
+    "nome": "Artes C\u00eanicas \u2212 Bacharelado"
+  }, 
+  "220": {
+    "convocados": 28, 
+    "nome": "Artes C\u00eanicas \u2212 Licenciatura"
+  }, 
+  "222": {
+    "convocados": 90, 
+    "nome": "Artes Pl\u00e1sticas"
+  }, 
+  "224": {
+    "convocados": 99, 
+    "nome": "Biblioteconomia"
+  }, 
+  "226": {
+    "convocados": 130, 
+    "nome": "Ci\u00eancias Cont\u00e1beis \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "228": {
+    "convocados": 394, 
+    "nome": "Ci\u00eancias Cont\u00e1beis"
+  }, 
+  "230": {
+    "convocados": 111, 
+    "nome": "Ci\u00eancias da Informa\u00e7\u00e3o e da Documenta\u00e7\u00e3o \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "232": {
+    "convocados": 608, 
+    "nome": "Ci\u00eancias Sociais"
+  }, 
+  "234": {
+    "convocados": 123, 
+    "nome": "Curso Superior do Audiovisual"
+  }, 
+  "236": {
+    "convocados": 1394, 
+    "nome": "Direito"
+  }, 
+  "238": {
+    "convocados": 100, 
+    "nome": "Economia Agroindustrial \u2212 Piracicaba"
+  }, 
+  "240": {
+    "convocados": 145, 
+    "nome": "Economia \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "242": {
+    "convocados": 572, 
+    "nome": "Economia"
+  }, 
+  "244": {
+    "convocados": 48, 
+    "nome": "Editora\u00e7\u00e3o"
+  }, 
+  "246": {
+    "convocados": 477, 
+    "nome": "Filosofia"
+  }, 
+  "248": {
+    "convocados": 491, 
+    "nome": "Geografia"
+  }, 
+  "250": {
+    "convocados": 117, 
+    "nome": "Gest\u00e3o Ambiental \u2212 Piracicaba"
+  }, 
+  "252": {
+    "convocados": 741, 
+    "nome": "Hist\u00f3ria"
+  }, 
+  "254": {
+    "convocados": 180, 
+    "nome": "Jornalismo"
+  }, 
+  "256": {
+    "convocados": 2202, 
+    "nome": "Letras"
+  }, 
+  "258": {
+    "convocados": 103, 
+    "nome": "M\u00fasica"
+  }, 
+  "260": {
+    "convocados": 43, 
+    "nome": "M\u00fasica \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "262": {
+    "convocados": 52, 
+    "nome": "Oficial da Pol\u00edcia Militar do Estado de S\u00e3o Paulo (Feminino)"
+  }, 
+  "264": {
+    "convocados": 406, 
+    "nome": "Oficial da Pol\u00edcia Militar do Estado de S\u00e3o Paulo (Masculino)"
+  }, 
+  "266": {
+    "convocados": 131, 
+    "nome": "Pedagogia \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "268": {
+    "convocados": 439, 
+    "nome": "Pedagogia"
+  }, 
+  "280": {
+    "convocados": 140, 
+    "nome": "Publicidade e Propaganda"
+  }, 
+  "282": {
+    "convocados": 196, 
+    "nome": "Rela\u00e7\u00f5es Internacionais"
+  }, 
+  "284": {
+    "convocados": 141, 
+    "nome": "Rela\u00e7\u00f5es P\u00fablicas"
+  }, 
+  "286": {
+    "convocados": 79, 
+    "nome": "Turismo"
+  }, 
+  "299": {
+    "convocados": 1249, 
+    "nome": "Treinamento Humanas"
+  }, 
+  "400": {
+    "convocados": 87, 
+    "nome": "Ci\u00eancias Biol\u00f3gicas \u2212 Piracicaba"
+  }, 
+  "402": {
+    "convocados": 134, 
+    "nome": "Ci\u00eancias Biol\u00f3gicas \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "404": {
+    "convocados": 371, 
+    "nome": "Ci\u00eancias Biol\u00f3gicas \u2212 S\u00e3o Paulo"
+  }, 
+  "406": {
+    "convocados": 108, 
+    "nome": "Ci\u00eancias dos Alimentos \u2212 Piracicaba"
+  }, 
+  "408": {
+    "convocados": 114, 
+    "nome": "Educa\u00e7\u00e3o F\u00edsica"
+  }, 
+  "420": {
+    "convocados": 219, 
+    "nome": "Enfermagem \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "422": {
+    "convocados": 381, 
+    "nome": "Enfermagem"
+  }, 
+  "424": {
+    "convocados": 572, 
+    "nome": "Engenharia Agr\u00f4nomica \u2212 Piracicaba"
+  }, 
+  "426": {
+    "convocados": 129, 
+    "nome": "Engenharia Florestal \u2212 Piracicaba"
+  }, 
+  "428": {
+    "convocados": 132, 
+    "nome": "Esporte"
+  }, 
+  "430": {
+    "convocados": 257, 
+    "nome": "Farm\u00e1cia\u2212Bioqu\u00edmica \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "432": {
+    "convocados": 430, 
+    "nome": "Farm\u00e1cia\u2212Bioqu\u00edmica"
+  }, 
+  "434": {
+    "convocados": 168, 
+    "nome": "Fisioterapia"
+  }, 
+  "436": {
+    "convocados": 73, 
+    "nome": "Fonoaudiologia \u2212 Bauru"
+  }, 
+  "438": {
+    "convocados": 87, 
+    "nome": "Fonoaudiologia \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "440": {
+    "convocados": 200, 
+    "nome": "Fonoaudiologia"
+  }, 
+  "442": {
+    "convocados": 1247, 
+    "nome": "Medicina e Ci\u00eancias M\u00e9dicas"
+  }, 
+  "444": {
+    "convocados": 215, 
+    "nome": "Medicina Veterin\u00e1ria"
+  }, 
+  "446": {
+    "convocados": 88, 
+    "nome": "Nutri\u00e7\u00e3o e Metabolismo \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "448": {
+    "convocados": 214, 
+    "nome": "Nutri\u00e7\u00e3o"
+  }, 
+  "450": {
+    "convocados": 144, 
+    "nome": "Odontologia \u2212 Bauru"
+  }, 
+  "452": {
+    "convocados": 246, 
+    "nome": "Odontologia \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "454": {
+    "convocados": 362, 
+    "nome": "Odontologia"
+  }, 
+  "456": {
+    "convocados": 123, 
+    "nome": "Psicologia \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "458": {
+    "convocados": 189, 
+    "nome": "Psicologia"
+  }, 
+  "460": {
+    "convocados": 121, 
+    "nome": "Terapia Ocupacional"
+  }, 
+  "462": {
+    "convocados": 108, 
+    "nome": "Zootecnia \u2212 Pirassununga"
+  }, 
+  "499": {
+    "convocados": 1237, 
+    "nome": "Treinamento Biol\u00f3gicas"
+  }, 
+  "600": {
+    "convocados": 150, 
+    "nome": "Ci\u00eancias Geol\u00f3gicas e Ambientais"
+  }, 
+  "602": {
+    "convocados": 296, 
+    "nome": "Computa\u00e7\u00e3o \u2212 S\u00e3o Carlos"
+  }, 
+  "604": {
+    "convocados": 136, 
+    "nome": "Engenharia Aeron\u00e1utica \u2212 S\u00e3o Carlos"
+  }, 
+  "606": {
+    "convocados": 135, 
+    "nome": "Engenharia Ambiental \u2212 S\u00e3o Carlos"
+  }, 
+  "608": {
+    "convocados": 2729, 
+    "nome": "Engenharia, Computa\u00e7\u00e3o e Matem\u00e1tica Aplicada"
+  }, 
+  "620": {
+    "convocados": 179, 
+    "nome": "Engenharia Civil \u2212 S\u00e3o Carlos"
+  }, 
+  "622": {
+    "convocados": 298, 
+    "nome": "Engenharia de Alimentos \u2212 Pirassununga"
+  }, 
+  "624": {
+    "convocados": 842, 
+    "nome": "Engenharia \u2212 S\u00e3o Carlos"
+  }, 
+  "626": {
+    "convocados": 127, 
+    "nome": "F\u00edsica M\u00e9dica \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "628": {
+    "convocados": 998, 
+    "nome": "F\u00edsica / Meteorologia / Geof\u00edsica / Estat\u00edstica / Matem\u00e1tica"
+  }, 
+  "630": {
+    "convocados": 133, 
+    "nome": "Inform\u00e1tica Biom\u00e9dica \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "632": {
+    "convocados": 111, 
+    "nome": "Inform\u00e1tica \u2212 S\u00e3o Carlos"
+  }, 
+  "634": {
+    "convocados": 135, 
+    "nome": "Licenciatura em Ci\u00eancias Exatas \u2212 S\u00e3o Carlos"
+  }, 
+  "636": {
+    "convocados": 106, 
+    "nome": "Licenciatura em Geoci\u00eancias e Educa\u00e7\u00e3o Ambiental"
+  }, 
+  "638": {
+    "convocados": 653, 
+    "nome": "Licenciatura em Matem\u00e1tica / F\u00edsica"
+  }, 
+  "640": {
+    "convocados": 130, 
+    "nome": "Matem\u00e1tica Aplicada \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "642": {
+    "convocados": 163, 
+    "nome": "Matem\u00e1tica \u2212 S\u00e3o Carlos"
+  }, 
+  "644": {
+    "convocados": 113, 
+    "nome": "Oceanografia"
+  }, 
+  "646": {
+    "convocados": 190, 
+    "nome": "Qu\u00edmica \u2212 Bacharelado e Licenciatura"
+  }, 
+  "648": {
+    "convocados": 84, 
+    "nome": "Qu\u00edmica \u2212 Licenciatura"
+  }, 
+  "650": {
+    "convocados": 94, 
+    "nome": "Qu\u00edmica Ambiental"
+  }, 
+  "652": {
+    "convocados": 116, 
+    "nome": "Qu\u00edmica (Bacharelado e Bacharelado com Atribui\u00e7\u00f5es Tecnol\u00f3gicas)\u2212Ribeir\u00e3o Preto"
+  }, 
+  "654": {
+    "convocados": 111, 
+    "nome": "Qu\u00edmica (Licenciatura) \u2212 Ribeir\u00e3o Preto"
+  }, 
+  "656": {
+    "convocados": 193, 
+    "nome": "Qu\u00edmica \u2212 S\u00e3o Carlos"
+  }, 
+  "699": {
+    "convocados": 1209, 
+    "nome": "Treinamento Exatas"
+  }
+}
