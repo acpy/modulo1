@@ -1,0 +1,222 @@
+rank,country,HDI,life_exp,edu_yrs,edu_yrs_exp,gni_pc,gni_pc_min_hdi,hdi_non_gni
+1,Norway,0.943,81.1,12.6,17.3,"47,557",6,0.975
+2,Australia,0.929,81.9,12.0,18.0,"34,431",16,0.979
+3,Netherlands,0.910,80.7,11.6,16.8,"36,402",9,0.944
+4,United States,0.910,78.5,12.4,16.0,"43,017",6,0.931
+5,New Zealand,0.908,80.7,12.5,18.0,"23,737",30,0.978
+6,Canada,0.908,81.0,12.1,16.0,"35,166",10,0.944
+7,Ireland,0.908,80.6,11.6,18.0,"29,322",19,0.959
+8,Liechtenstein,0.905,79.6,10.3,14.7,"83,717",-6,0.877
+9,Germany,0.905,80.4,12.2,15.9,"34,854",8,0.940
+10,Sweden,0.904,81.4,11.7,15.7,"35,837",4,0.936
+11,Switzerland,0.903,82.3,11.0,15.6,"39,924",0,0.926
+12,Japan,0.901,83.4,11.6,15.1,"32,295",11,0.940
+13,"Hong Kong, China (SAR)",0.898,82.8,10.0,15.7,"44,805",-4,0.910
+14,Iceland,0.898,81.8,10.4,18.0,"29,354",11,0.943
+15,Korea (Republic of),0.897,80.6,11.6,16.9,"28,230",12,0.945
+16,Denmark,0.895,78.8,11.4,16.9,"34,347",3,0.926
+17,Israel,0.888,81.6,11.9,15.5,"25,849",14,0.939
+18,Belgium,0.886,80.0,10.9,16.1,"33,357",2,0.914
+19,Austria,0.885,80.9,10.8,15.3,"35,719",-4,0.908
+20,France,0.884,81.5,10.6,16.1,"30,462",4,0.919
+21,Slovenia,0.884,79.3,11.6,16.9,"24,914",11,0.935
+22,Finland,0.882,80.0,10.3,16.8,"32,438",0,0.911
+23,Spain,0.878,81.4,10.4,16.6,"26,508",6,0.920
+24,Italy,0.874,81.9,10.1,16.3,"26,484",6,0.914
+25,Luxembourg,0.867,80.0,10.1,13.3,"50,557",-20,0.854
+26,Singapore,0.866,81.1,8.8,14.4,"52,569",-22,0.851
+27,Czech Republic,0.865,77.7,12.3,15.6,"21,405",14,0.917
+28,United Kingdom,0.863,80.2,9.3,16.1,"33,296",-7,0.879
+29,Greece,0.861,79.9,10.1,16.5,"23,747",5,0.902
+30,United Arab Emirates,0.846,76.5,9.3,13.3,"59,993",-27,0.813
+31,Cyprus,0.840,79.6,9.8,14.7,"24,841",2,0.866
+32,Andorra,0.838,80.9,10.4,11.5,"36,095",-19,0.836
+33,Brunei Darussalam,0.838,78.0,8.6,14.1,"45,753",-25,0.819
+34,Estonia,0.835,74.8,12.0,15.7,"16,799",13,0.890
+35,Slovakia,0.834,75.4,11.6,14.9,"19,998",8,0.875
+36,Malta,0.832,79.6,9.9,14.4,"21,460",4,0.866
+37,Qatar,0.831,78.4,7.3,12.0,"107,721",-36,0.757
+38,Hungary,0.816,74.4,11.1,15.3,"16,581",11,0.862
+39,Poland,0.813,76.1,10.0,15.3,"17,451",7,0.853
+40,Lithuania,0.810,72.2,10.9,16.1,"16,234",10,0.853
+41,Portugal,0.809,79.5,7.7,15.9,"20,573",1,0.833
+42,Bahrain,0.806,75.1,9.4,13.4,"28,169",-14,0.806
+43,Latvia,0.805,73.3,11.5,15.0,"14,293",12,0.857
+44,Chile,0.805,79.1,9.7,14.7,"13,329",14,0.862
+45,Argentina,0.797,75.9,9.3,15.8,"14,527",9,0.843
+46,Croatia,0.796,76.6,9.8,13.9,"15,729",5,0.834
+47,Barbados,0.793,76.8,9.3,13.4,"17,966",-3,0.818
+48,Uruguay,0.783,77.0,8.5,15.5,"13,242",12,0.828
+49,Palau,0.782,71.8,12.1,14.7,"9,744",29,0.853
+50,Romania,0.781,74.0,10.4,14.9,"11,046",20,0.841
+51,Cuba,0.776,79.1,9.9,17.5,"5,416",52,0.904
+52,Seychelles,0.773,73.6,9.4,13.3,"16,729",-4,0.794
+53,Bahamas,0.771,75.6,8.5,12.0,"23,029",-15,0.768
+54,Montenegro,0.771,74.6,10.6,13.7,"10,361",20,0.831
+55,Bulgaria,0.771,73.4,10.6,13.7,"11,412",14,0.822
+56,Saudi Arabia,0.770,73.9,7.8,13.7,"23,274",-19,0.765
+57,Mexico,0.770,77.0,8.5,13.9,"13,245",2,0.808
+58,Panama,0.768,76.1,9.4,13.2,"12,335",7,0.811
+59,Serbia,0.766,74.5,10.2,13.7,"10,236",16,0.824
+60,Antigua and Barbuda,0.764,72.6,8.9,14.0,"15,521",-8,0.786
+61,Malaysia,0.761,74.2,9.5,12.6,"13,685",-5,0.790
+62,Trinidad and Tobago,0.760,70.1,9.2,12.3,"23,439",-26,0.750
+63,Kuwait,0.760,74.6,6.1,12.3,"47,926",-57,0.705
+64,Libyan Arab Jamahiriya,0.760,74.8,7.3,16.6,"12,637",0,0.795
+65,Belarus,0.756,70.3,9.3,14.6,"13,439",-8,0.785
+66,Russian Federation,0.755,68.8,9.8,14.1,"14,561",-13,0.777
+67,Grenada,0.748,76.0,8.6,16.0,"6,982",30,0.829
+68,Kazakhstan,0.745,67.0,10.4,15.1,"10,585",4,0.786
+69,Costa Rica,0.744,79.3,8.3,11.7,"10,497",4,0.785
+70,Albania,0.739,76.9,10.4,11.3,"7,803",18,0.804
+71,Lebanon,0.739,72.6,7.9,13.8,"13,076",-10,0.760
+72,Saint Kitts and Nevis,0.735,73.1,8.4,12.9,"11,897",-4,0.762
+73,Venezuela (Bolivarian Republic of),0.735,74.4,7.6,14.2,"10,656",-2,0.771
+74,Bosnia and Herzegovina,0.733,75.7,8.7,13.6,"7,664",16,0.797
+75,Georgia,0.733,73.7,12.1,13.1,"4,780",36,0.843
+76,Ukraine,0.729,68.5,11.3,14.7,"6,175",24,0.810
+77,Mauritius,0.728,73.4,7.2,13.6,"12,918",-14,0.745
+78,The former Yugoslav Republic of Macedonia,0.728,74.8,8.2,13.3,"8,804",2,0.776
+79,Jamaica,0.727,73.1,9.6,13.8,"6,487",19,0.802
+80,Peru,0.725,74.0,8.7,12.9,"8,389",2,0.775
+81,Dominica,0.724,77.5,7.7,13.2,"7,889",6,0.779
+82,Saint Lucia,0.723,74.6,8.3,13.1,"8,273",2,0.773
+83,Ecuador,0.720,75.6,7.6,14.0,"7,589",9,0.776
+84,Brazil,0.718,73.5,7.2,13.8,"10,162",-7,0.748
+85,Saint Vincent and the Grenadines,0.717,72.3,8.6,13.2,"8,013",1,0.766
+86,Armenia,0.716,74.2,10.8,12.0,"5,188",22,0.806
+87,Colombia,0.710,73.7,7.3,13.6,"8,315",-4,0.752
+88,Iran (Islamic Republic of),0.707,73.0,7.3,12.7,"10,164",-12,0.731
+89,Oman,0.705,73.0,5.5,11.8,"22,841",-50,0.671
+90,Tonga,0.704,72.3,10.3,13.7,"4,186",26,0.808
+91,Azerbaijan,0.700,70.7,8.6,11.8,"8,666",-10,0.733
+92,Turkey,0.699,74.0,6.5,11.8,"12,246",-25,0.704
+93,Belize,0.699,76.1,8.0,12.4,"5,812",9,0.766
+94,Tunisia,0.698,74.5,6.5,14.5,"7,281",2,0.745
+95,Jordan,0.698,73.4,8.6,13.1,"5,300",9,0.773
+96,Algeria,0.698,73.1,7.0,13.6,"7,658",-5,0.739
+97,Sri Lanka,0.691,74.9,8.2,12.7,"4,943",12,0.768
+98,Dominican Republic,0.689,73.4,7.2,11.9,"8,087",-13,0.720
+99,Samoa,0.688,72.4,10.3,12.3,"3,931",22,0.788
+100,Fiji,0.688,69.2,10.7,13.0,"4,145",18,0.781
+101,China,0.687,73.5,7.5,11.6,"7,476",-7,0.725
+102,Turkmenistan,0.686,65.0,9.9,12.5,"7,306",-7,0.724
+103,Thailand,0.682,74.1,6.6,12.3,"7,694",-14,0.714
+104,Suriname,0.680,70.6,7.2,12.6,"7,538",-11,0.712
+105,El Salvador,0.674,72.2,7.5,12.1,"5,925",-4,0.724
+106,Gabon,0.674,62.7,7.5,13.1,"12,249",-40,0.667
+107,Paraguay,0.665,72.5,7.7,12.1,"4,727",5,0.729
+108,Bolivia (Plurinational State of),0.663,66.6,9.2,13.7,"4,054",11,0.742
+109,Maldives,0.661,76.8,5.8,12.4,"5,276",-3,0.714
+110,Mongolia,0.653,68.5,8.3,14.1,"3,391",17,0.743
+111,Moldova (Republic of),0.649,69.3,9.7,11.9,"3,058",21,0.746
+112,Philippines,0.644,68.7,8.9,11.9,"3,478",11,0.725
+113,Egypt,0.644,73.2,6.4,11.0,"5,269",-6,0.686
+114,Occupied Palestinian Territory,0.641,72.8,8.0,12.7,"2,656",23,0.750
+115,Uzbekistan,0.641,68.3,10.0,11.4,"2,967",19,0.736
+116,Micronesia (Federated States of),0.636,69.0,8.8,12.1,"2,935",19,0.729
+117,Guyana,0.633,69.9,8.0,11.9,"3,192",11,0.715
+118,Botswana,0.633,53.2,8.9,12.2,"13,049",-56,0.602
+119,Syrian Arab Republic,0.632,75.9,5.7,11.3,"4,243",-5,0.686
+120,Namibia,0.625,62.5,7.4,11.6,"6,206",-21,0.643
+121,Honduras,0.625,73.1,6.5,11.4,"3,443",4,0.694
+122,Kiribati,0.624,68.1,7.8,12.1,"3,140",8,0.701
+123,South Africa,0.619,52.8,8.5,13.1,"9,469",-44,0.604
+124,Indonesia,0.617,69.4,5.8,13.2,"3,716",-2,0.674
+125,Vanuatu,0.617,71.0,6.7,10.4,"3,950",-5,0.668
+126,Kyrgyzstan,0.615,67.7,9.3,12.5,"2,036",19,0.734
+127,Tajikistan,0.607,67.5,9.8,11.4,"1,937",20,0.726
+128,Viet Nam,0.593,75.2,5.5,10.4,"2,805",8,0.662
+129,Nicaragua,0.589,74.0,5.8,10.8,"2,430",10,0.669
+130,Morocco,0.582,72.2,4.4,10.3,"4,196",-15,0.606
+131,Guatemala,0.574,71.2,4.1,10.6,"4,167",-14,0.595
+132,Iraq,0.573,69.0,5.6,9.8,"3,177",-3,0.616
+133,Cape Verde,0.568,74.2,3.5,11.6,"3,402",-7,0.603
+134,India,0.547,65.4,4.4,10.3,"3,468",-10,0.568
+135,Ghana,0.541,64.2,7.1,10.5,"1,584",20,0.633
+136,Equatorial Guinea,0.537,51.1,5.4,7.7,"17,608",-91,0.458
+137,Congo,0.533,57.4,5.9,10.5,"3,066",-6,0.555
+138,Lao People's Democratic Republic,0.524,67.5,4.6,9.2,"2,242",4,0.569
+139,Cambodia,0.523,63.1,5.8,9.8,"1,848",11,0.584
+140,Swaziland,0.522,48.7,7.1,10.6,"4,484",-27,0.512
+141,Bhutan,0.522,67.2,2.3,11.0,"5,293",-36,0.500
+142,Solomon Islands,0.510,67.9,4.5,9.1,"1,782",10,0.567
+143,Kenya,0.509,57.1,7.0,11.0,"1,492",15,0.584
+144,Sao Tome and Principe,0.509,64.7,4.2,10.8,"1,792",7,0.564
+145,Pakistan,0.504,65.4,4.9,6.9,"2,550",-7,0.526
+146,Bangladesh,0.500,68.9,4.8,8.1,"1,529",11,0.566
+147,Timor-Leste,0.495,62.5,2.8,11.2,"3,005",-14,0.499
+148,Angola,0.486,51.1,4.4,9.1,"4,874",-38,0.455
+149,Myanmar,0.483,65.2,4.0,9.2,"1,535",7,0.536
+150,Cameroon,0.482,51.6,5.9,10.3,"2,031",-4,0.509
+151,Madagascar,0.480,66.7,5.2,10.7,824,26,0.605
+152,Tanzania (United Republic of),0.466,58.2,5.1,9.1,"1,328",10,0.523
+153,Papua New Guinea,0.466,62.8,4.3,5.8,"2,271",-12,0.475
+154,Yemen,0.462,65.5,2.5,8.6,"2,213",-11,0.471
+155,Senegal,0.459,59.3,4.5,7.5,"1,708",-2,0.488
+156,Nigeria,0.459,51.9,5.0,8.9,"2,069",-12,0.471
+157,Nepal,0.458,68.8,3.2,8.8,"1,160",8,0.524
+158,Haiti,0.454,62.1,4.9,7.6,"1,123",12,0.520
+159,Mauritania,0.453,58.6,3.7,8.1,"1,859",-10,0.472
+160,Lesotho,0.450,48.2,5.9,9.9,"1,664",-6,0.475
+161,Uganda,0.446,54.1,4.7,10.8,"1,124",7,0.506
+162,Togo,0.435,57.1,5.3,9.6,798,16,0.526
+163,Comoros,0.433,61.1,2.8,10.7,"1,079",9,0.488
+164,Zambia,0.430,49.0,6.5,7.9,"1,254",0,0.469
+165,Djibouti,0.430,57.9,3.8,5.1,"2,335",-25,0.420
+166,Rwanda,0.429,55.4,3.3,11.1,"1,133",1,0.477
+167,Benin,0.427,56.1,3.3,9.2,"1,364",-6,0.456
+168,Gambia,0.420,58.5,2.8,9.0,"1,282",-5,0.450
+169,Sudan,0.408,61.5,3.1,4.4,"1,894",-21,0.402
+170,Côte d'Ivoire,0.400,55.4,3.3,6.3,"1,387",-10,0.412
+171,Malawi,0.400,54.2,4.2,8.9,753,8,0.470
+172,Afghanistan,0.398,48.7,3.3,9.1,"1,416",-13,0.407
+173,Zimbabwe,0.376,51.4,7.2,9.9,376,11,0.529
+174,Ethiopia,0.363,59.3,1.5,8.5,971,0,0.383
+175,Mali,0.359,51.4,2.0,8.3,"1,123",-6,0.366
+176,Guinea-Bissau,0.353,48.1,2.3,9.1,994,-3,0.366
+177,Eritrea,0.349,61.6,3.4,4.8,536,6,0.421
+178,Guinea,0.344,54.1,1.6,8.6,863,-2,0.364
+179,Central African Republic,0.343,48.4,3.5,6.6,707,2,0.379
+180,Sierra Leone,0.336,47.8,2.9,7.2,737,0,0.365
+181,Burkina Faso,0.331,55.4,1.3,6.3,"1,141",-15,0.323
+182,Liberia,0.329,56.8,3.9,11.0,265,5,0.504
+183,Chad,0.328,49.6,1.5,7.2,"1,105",-12,0.320
+184,Mozambique,0.322,50.2,1.2,9.2,898,-9,0.325
+185,Burundi,0.316,50.4,2.7,10.5,368,0,0.412
+186,Niger,0.295,54.7,1.4,4.9,641,-4,0.311
+187,Congo (Democratic Republic of the),0.286,48.4,3.5,8.2,280,-1,0.399
+..,Korea (Democratic People's Rep. of),..,68.8,..,..,..,..,..
+..,Marshall Islands,..,72.0,9.8,10.8,..,..,0.752
+..,Monaco,..,82.2,..,17.5,..,..,..
+..,Nauru,..,79.9,..,9.3,..,..,..
+..,San Marino,..,81.8,..,..,..,..,..
+..,Somalia,..,51.2,..,2.4,..,..,..
+..,Tuvalu,..,67.2,..,10.8,..,..,..
+
+******************************************************************************
+
+Human Development Report 2011 - Sustainability and Equity: A Better Future for All
+Table 1 - Human Development Index and its components
+
+HDI = Human Development Index: A composite index measuring average achievement in three basic dimensions of human development—a long and healthy life, knowledge and a decent standard of living. See Technical note 1 for details on how the HDI is calculated.
+
+life_exp = Life expectancy at birth: Number of years a newborn infant could expect to live if prevailing patterns of age-specific mortality rates at the time of birth stay the same throughout the infant’s life.
+
+edu_yrs = Mean years of schooling: Average number of years of education received by people ages 25 and older, converted from education attainment levels using official durations of each level.
+
+edu_yrs_exp = Expected years of schooling: Number of years of schooling that a child of school entrance age can expect to receive if prevailing patterns of age-specific enrolment rates persist throughout the child’s life.
+
+gni_pc = Gross national income per capita: Aggregate income of an economy generated by its production and its ownership of factors of production, less the incomes paid for the use of factors of production owned by the rest of the world, converted to international dollars using purchasing power parity (PPP) rates, divided by midyear population.
+
+gni_pc_min_hdi = GNI per capita rank minus HDI rank: Difference in rankings by GNI per capita and by the HDI. A negative value means that the country is better ranked by GNI than by the HDI.
+
+hdi_non_gni = Nonincome HDI: Value of the HDI computed from the life expectancy and education indicators only.
+MAIN DATA SOURCES
+Column 1: HDRO calculations based on data from UNDESA (2011), Barro and Lee (2010), UNESCO Institute for Statistics (2011), World Bank (2011a), UNSD (2011) and IMF (2011).
+Column 2: UNDESA (2011).
+Column 3: HDRO updates of Barro and Lee (2010) estimates based on UNESCO Institute for Statistics data on education attainment (2011) and Barro and Lee (2010) methodology.
+Column 4: UNESCO (2011).
+Column 5: HDRO calculations based on data from World Bank (2011), IMF (2011) and UNSD (2011).
+Column 6: Calculated based on data in columns 1 and 5.
+Column 7: Calculated based on data in columns 2, 3 and 4.
