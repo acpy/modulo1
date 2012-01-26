@@ -1,4 +1,4 @@
-rank,country,HDI,life_exp,edu_yrs,edu_yrs_exp,gni_pc,gni_pc_min_hdi,hdi_non_gni
+rank,country,hdi,life_exp,edu_yrs,edu_yrs_exp,gni_pc,gni_pc_min_hdi,hdi_non_gni
 1,Norway,0.943,81.1,12.6,17.3,"47,557",6,0.975
 2,Australia,0.929,81.9,12.0,18.0,"34,431",16,0.979
 3,Netherlands,0.910,80.7,11.6,16.8,"36,402",9,0.944
